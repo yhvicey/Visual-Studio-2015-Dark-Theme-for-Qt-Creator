@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme version="1.0" name="Visual Studio">
+  <style name="Text" foreground="#dcdcdc" background="#1e1e1e"/>
+  <style name="Link" foreground="#0000ff"/>
+  <style name="Selection" foreground="#1e1e1e" background="#3399ff"/>
+  <style name="LineNumber" foreground="#2b91af" background="#1e1e1e"/>
+  <style name="SearchResult" foreground="#000000" background="#773800"/>
+  <style name="SearchScope" foreground="#000000" background="#0f202d"/>
+  <style name="Parentheses" foreground="#dcdcdc" background="#0e4583"/>
+  <style name="ParenthesesMismatch" foreground="#dcdcdc" background="#0e4583" underlineColor="#ff0000" underlineStyle="WaveUnderline"/>
+  <style name="CurrentLine" foreground="#000000" background="#dcdcdc"/>
+  <style name="CurrentLineNumber" foreground="#2b91af" background="#1e1e1e" bold="true"/>
+  <style name="Occurrences" foreground="#000000" background="#0e4583"/>
+  <style name="Occurrences.Unused" underlineColor="#95db7d" underlineStyle="WaveUnderline"/>
+  <style name="Occurrences.Rename" foreground="#000000" background="#0e4583"/>
+  <style name="Number" foreground="#b5cea8" background="#1e1e1e"/>
+  <style name="String" foreground="#d69d85" background="#1e1e1e"/>
+  <style name="Type" foreground="#4ec9b0" background="#1e1e1e"/>
+  <style name="Local" foreground="#dcdcdc" background="#1e1e1e"/>
+  <style name="Field" foreground="#dcdcdc" background="#1e1e1e"/>
+  <style name="Static" foreground="#b8d7a3" background="#1e1e1e"/>
+  <style name="VirtualMethod" foreground="#dcdcdc" background="#1e1e1e" italic="true"/>
+  <style name="Function" foreground="#dcdcdc" background="#1e1e1e"/>
+  <style name="Keyword" foreground="#569cd6" background="#1e1e1e"/>
+  <style name="PrimitiveType" foreground="#569cd6" background="#1e1e1e"/>
+  <style name="Operator" foreground="#dcdcdc" background="#1e1e1e"/>
+  <style name="Preprocessor" foreground="#9b9b9b" background="#1e1e1e"/>
+  <style name="Label" foreground="#dcdcdc" background="#1e1e1e"/>
+  <style name="Comment" foreground="#57a64a" background="#1e1e1e"/>
+  <style name="Doxygen.Comment" foreground="#008000" background="#1e1e1e"/>
+  <style name="Doxygen.Tag" foreground="#008000"/>
+  <style name="VisualWhitespace" foreground="#dcdcdc" background="#1e1e1e"/>
+  <style name="QmlLocalId" foreground="#dcdcdc" background="#1e1e1e" italic="true"/>
+  <style name="QmlExternalId" foreground="#000080" background="#1e1e1e" italic="true"/>
+  <style name="QmlTypeId" foreground="#4ec9b0" background="#1e1e1e"/>
+  <style name="QmlRootObjectProperty" foreground="#dcdcdc" background="#1e1e1e" italic="true"/>
+  <style name="QmlScopeObjectProperty" foreground="#dcdcdc" background="#1e1e1e" italic="true"/>
+  <style name="QmlExternalObjectProperty" foreground="#000080" background="#1e1e1e" italic="true"/>
+  <style name="JsScopeVar" foreground="#dcdcdc" background="#1e1e1e" italic="true"/>
+  <style name="JsImportVar" foreground="#dcdcdc" background="#1e1e1e" italic="true"/>
+  <style name="JsGlobalVar" foreground="#dcdcdc" background="#1e1e1e" italic="true"/>
+  <style name="QmlStateName" foreground="#dcdcdc" background="#1e1e1e" italic="true"/>
+  <style name="Binding" foreground="#800000" background="#1e1e1e"/>
+  <style name="DisabledCode" foreground="#9b9b9b" background="#1e1e1e"/>
+  <style name="AddedLine" foreground="#7fff7f" background="#265e4d"/>
+  <style name="RemovedLine" foreground="#ff7f7f" background="#3c0000"/>
+  <style name="DiffFile" foreground="#dcdcdc" background="#15352c"/>
+  <style name="DiffLocation" foreground="#dcdcdc" background="#15352c"/>
+  <style name="DiffFileLine" foreground="#dcdcdc" background="#15352c"/>
+  <style name="DiffContextLine" foreground="#dcdcdc" background="#15352c"/>
+  <style name="DiffSourceLine" foreground="#dcdcdc" background="#2d0000"/>
+  <style name="DiffSourceChar" foreground="#dcdcdc" background="#2d0000"/>
+  <style name="DiffDestLine" foreground="#dcdcdc" background="#15352c"/>
+  <style name="DiffDestChar" foreground="#dcdcdc" background="#15352c"/>
+  <style name="LogChangeLine" foreground="#dcdcdc" background="#15352c"/>
+  <style name="Warning" underlineColor="#95db7d" underlineStyle="WaveUnderline"/>
+  <style name="WarningContext" underlineColor="#95db7d" underlineStyle="WaveUnderline"/>
+  <style name="Error" underlineColor="#ff0000" underlineStyle="WaveUnderline"/>
+  <style name="ErrorContext" underlineColor="#ff0000" underlineStyle="WaveUnderline"/>
+</style-scheme>
