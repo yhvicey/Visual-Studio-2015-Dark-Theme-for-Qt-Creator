@@ -8,6 +8,7 @@
   <style name="SearchScope" foreground="#000000" background="#0f202d"/>
   <style name="Parentheses" foreground="#dcdcdc" background="#0e4583"/>
   <style name="ParenthesesMismatch" foreground="#dcdcdc" background="#0e4583" underlineColor="#ff0000" underlineStyle="WaveUnderline"/>
+  <style name="AutoComplete" foreground="#000080" background="#c0c0ff"/>
   <style name="CurrentLine" foreground="#000000" background="#dcdcdc"/>
   <style name="CurrentLineNumber" foreground="#2b91af" background="#1e1e1e" bold="true"/>
   <style name="Occurrences" foreground="#000000" background="#0e4583"/>
@@ -17,6 +18,7 @@
   <style name="String" foreground="#d69d85" background="#1e1e1e"/>
   <style name="Type" foreground="#4ec9b0" background="#1e1e1e"/>
   <style name="Local" foreground="#dcdcdc" background="#1e1e1e"/>
+  <style name="Global" foreground="#dcdcdc"/>
   <style name="Field" foreground="#dcdcdc" background="#1e1e1e"/>
   <style name="Static" foreground="#b8d7a3" background="#1e1e1e"/>
   <style name="VirtualMethod" foreground="#dcdcdc" background="#1e1e1e" italic="true"/>
@@ -24,6 +26,7 @@
   <style name="Keyword" foreground="#569cd6" background="#1e1e1e"/>
   <style name="PrimitiveType" foreground="#569cd6" background="#1e1e1e"/>
   <style name="Operator" foreground="#dcdcdc" background="#1e1e1e"/>
+  <style name="Overloaded Operator"/>
   <style name="Preprocessor" foreground="#9b9b9b" background="#1e1e1e"/>
   <style name="Label" foreground="#dcdcdc" background="#1e1e1e"/>
   <style name="Comment" foreground="#57a64a" background="#1e1e1e"/>
@@ -57,4 +60,7 @@
   <style name="WarningContext" underlineColor="#95db7d" underlineStyle="WaveUnderline"/>
   <style name="Error" underlineColor="#ff0000" underlineStyle="WaveUnderline"/>
   <style name="ErrorContext" underlineColor="#ff0000" underlineStyle="WaveUnderline"/>
+  <style name="Declaration" bold="true"/>
+  <style name="FunctionDefinition"/>
+  <style name="OutputArgument" italic="true"/>
 </style-scheme>
